@@ -1,5 +1,11 @@
 #NewGame
 
+#########################################
+#                                       #
+#          Autor: Carlos Rizzi          #
+#                                       #
+#########################################
+
 import pygame
 import random
 from os import path
